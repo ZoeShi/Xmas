@@ -1,0 +1,360 @@
+
+
+#xmas {
+	margin-left: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	margin-right: auto;
+	text-align: center;
+	z-index: 50;
+  overflow: hidden;
+}
+
+#background {
+	background-image: url(../picture/background.jpg); ;
+  overflow: hidden;
+  z-index: 30;
+  width: 1800px;
+  height: 900px;
+  top: 5%;
+  right: 5%;
+  left: 5%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom: auto;
+  margin-top: auto;	
+}
+
+ #date{
+ 	position: absolute;
+ 	z-index: 30;
+	width:100%;
+	top: 48%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	text-align: center;
+
+
+}
+ #door1{
+  position: absolute;
+  width:80px;
+  height:120px;
+  min-width: 8px;
+  min-height: 12px;
+  top: 15%;
+  right: 20%;
+
+}
+ #door2{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  bottom: 15%;
+  left: 27%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+ #door3{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 55%;
+  right: 27%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door4{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 59%;
+  right: 20%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door5{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 32%;
+  right: 57%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door6{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 60%;
+  right: 40%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door7{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 19%;
+  right: 46%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door8{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 31%;
+  left: 66%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door9{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 65%;
+  right: 13%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door10{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 39%;
+  left: 23%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door11{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 35%;
+  right: 17%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door12{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 75%;
+  left: 39%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door12{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 64%;
+  right: 73%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door13{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 46%;
+  left: 33%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door14{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 67%;
+  left: 21%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door15{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 72%;
+  right: 45%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door16{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 49%;
+  left: 14%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door17{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 11%;
+  left: 10%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door18{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 70%;
+  left: 12%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door19{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 20%;
+  left: 20%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door20{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 25%;
+  left: 30%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door21{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 75%;
+  right: 23%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door22{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 12%;
+  right: 34%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door23{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 78%;
+  right: 32%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+#door24{
+  position: absolute;
+  z-index: 30;
+  width: 80px;
+  height: 120px;
+  top: 30%;
+  left: 12%;
+  margin-left:auto;
+	margin-right:auto;
+	margin-bottom: auto;
+	margin-top: auto;
+}
